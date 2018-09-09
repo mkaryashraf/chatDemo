@@ -1,0 +1,5 @@
+com\test\chatdemo\Controllers\GreetingController.class
+com\test\chatdemo\Configuration\webSocketsConfig.class
+com\test\chatdemo\Application.class
+com\test\chatdemo\Domain\HelloMessage.class
+com\test\chatdemo\Domain\Greeting.class
