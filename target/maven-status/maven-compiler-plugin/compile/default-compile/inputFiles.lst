@@ -1,4 +1,7 @@
 D:\GitHub\chatDemo\chatDemo\src\main\java\com\test\chatdemo\Configuration\webSocketsConfig.java
+D:\GitHub\chatDemo\chatDemo\src\main\java\com\test\chatdemo\Controllers\WebSocketEventListener.java
+D:\GitHub\chatDemo\chatDemo\src\main\java\com\test\chatdemo\Domain\ChatMessage.java
+D:\GitHub\chatDemo\chatDemo\src\main\java\com\test\chatdemo\Controllers\ChatController.java
 D:\GitHub\chatDemo\chatDemo\src\main\java\com\test\chatdemo\Controllers\GreetingController.java
 D:\GitHub\chatDemo\chatDemo\src\main\java\com\test\chatdemo\Domain\Greeting.java
 D:\GitHub\chatDemo\chatDemo\src\main\java\com\test\chatdemo\Application.java

@@ -1,5 +1,10 @@
-com\test\chatdemo\Controllers\GreetingController.class
+com\test\chatdemo\Domain\ChatMessage$MessageType.class
 com\test\chatdemo\Configuration\webSocketsConfig.class
 com\test\chatdemo\Application.class
-com\test\chatdemo\Domain\HelloMessage.class
 com\test\chatdemo\Domain\Greeting.class
+com\test\chatdemo\Controllers\WebSocketEventListener.class
+com\test\chatdemo\Controllers\GreetingController.class
+com\test\chatdemo\Domain\ChatMessage.class
+com\test\chatdemo\Domain\HelloMessage.class
+com\test\chatdemo\Controllers\ChatController.class
+.netbeans_automatic_build
