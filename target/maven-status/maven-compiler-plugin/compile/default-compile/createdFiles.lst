@@ -7,4 +7,3 @@ com\test\chatdemo\Controllers\GreetingController.class
 com\test\chatdemo\Domain\ChatMessage.class
 com\test\chatdemo\Domain\HelloMessage.class
 com\test\chatdemo\Controllers\ChatController.class
-.netbeans_automatic_build
